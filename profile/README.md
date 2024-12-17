@@ -1,5 +1,10 @@
 # DevOps with AWS - 82S
 
+## Socials
+
+**Linkedin:** https://www.linkedin.com/in/sivakumar-reddy-mettukuru/
+**Instagram:** https://www.instagram.com/sivakumar_reddy_m
+
 #### Language: Telugu
 #### Trainer: Sivakumar Reddy
 #### Demo: 15-DEC-2024 10:30AM IST
